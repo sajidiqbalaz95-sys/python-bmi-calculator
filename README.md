@@ -32,36 +32,9 @@ The program then determines the corresponding BMI category.
 - **Language:** Python 3
 - **Concepts:** Functions, conditional statements, type hints, exception handling, user input, and formatted strings.
 
-## 📂 Project Structure
 
-```text
-python-bmi-calculator/
-│
-├── bmi_calculator.py
-└── README.md
-```
 
-## 🚀 Getting Started
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/YOUR-USERNAME/python-bmi-calculator.git
-```
-
-### 2. Navigate to the project directory
-
-```bash
-cd python-bmi-calculator
-```
-
-### 3. Run the program
-
-```bash
-python bmi_calculator.py
-```
-
-*Note: Python 3 must be installed on your computer.*
 
 ## 💻 Example Output
 
@@ -96,7 +69,7 @@ This calculator is intended for educational purposes only. BMI is a screening me
 ## 👨‍💻 Author
 
 **Sajid Iqbal**  
-Data Science Student | Python Learner
+Junior Data Engineer | Python & SQL | Passionate about ETL, data modeling, and cloud analytics
 
 ## ⭐ Support
 
